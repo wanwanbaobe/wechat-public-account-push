@@ -14,14 +14,14 @@ const USER_CONFIG = {
   APP_SECRET: '154746a0324a8d58625132a41e0bfdc1',
 
   PROVINCE: '江苏',
-  CITY: '如皋',
+  CITY: '南京',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '万万宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oeCXo5iG7kA1AZXLaUjGH_tfp2RE,oeCXo5tYy0MHwZ1pow5UqU-5klaA',
+      id: 'oeCXo5iG7kA1AZXLaUjGH_tfp2RE','oeCXo5tYy0MHwZ1pow5UqU-5klaA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'SaPACxdEAUa8xD9sF6zsdRKFyzVRobL17yMGyKqpvqQ	',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
